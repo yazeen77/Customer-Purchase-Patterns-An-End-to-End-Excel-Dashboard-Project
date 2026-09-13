@@ -4,7 +4,7 @@ This project analyzes customer demographic data to uncover key behavioral and so
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ![Bike Sales Dashboard Header](dashboard-screenshot.png)
 
@@ -13,7 +13,7 @@ This project analyzes customer demographic data to uncover key behavioral and so
 
 ---
 
-## 📌 Executive Summary
+## Executive Summary
 
 Understanding consumer demographics is vital for optimizing sales strategies and targeting high-conversion customer segments. This project cleans and analyzes a dataset of **1,000 customer records** containing attributes such as income, commute distance, age bracket, education, home ownership, and car counts. 
 
@@ -21,7 +21,7 @@ By building an interactive Excel dashboard driven by dynamic PivotTables and reg
 
 ---
 
-## 🔑 Key Analytical Insights
+## Key Analytical Insights
 
 * **Target Age Segment:** **Middle-aged professionals** (ages 31–54) represent the bulk of sales volume, achieving the highest purchase conversion rate (**54.0%**) compared to Adolescent (**35.5%**) and Old (**31.6%**) cohorts.
 * **Commute Sensitivity:** Conversion peaks for customers with short daily commutes. Customers living within **0–1 miles** (**54.6%** conversion) and **2–5 miles** (**58.6%** conversion) show strong intent, whereas long-distance commuters (**>10 miles**) drop off significantly to **29.7%**.
@@ -30,7 +30,7 @@ By building an interactive Excel dashboard driven by dynamic PivotTables and reg
 
 ---
 
-## 🎯 Strategic Business Recommendations
+## Strategic Business Recommendations
 
 1. **Focus Digital Ad Budget on Short-Commute Professionals:** Target geo-fenced digital advertisements toward middle-aged working professionals living within 5 miles of urban business districts, highlighting bikes as eco-friendly daily commuting alternatives.
 2. **First-Time / Low-Car Household Bundles:** Create promotional starter bundles (including helmets, locks, and commuter panniers) aimed at single/low-vehicle households to capitalize on high conversion rates in 0–1 car segments.
@@ -38,7 +38,7 @@ By building an interactive Excel dashboard driven by dynamic PivotTables and reg
 
 ---
 
-## 🛠️ Data Pipeline & Technical Features
+## Data Pipeline & Technical Features
 
 * **Data Cleaning & Preprocessing:** Executed data transformation rules in Excel, including standardizing text fields, handling null values, and creating categorized helper columns (e.g., `Age Brackets` grouping).
 * **PivotTables & Aggregations:** Aggregated raw data across multi-dimensional criteria including average income, age distributions, commute bins, and car counts cross-tabulated with purchase status (`Purchased Bike`).
