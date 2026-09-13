@@ -45,11 +45,3 @@ By building an interactive Excel dashboard driven by dynamic PivotTables and reg
 * **Interactive UI / Dashboard:** Designed a clean 2x2 grid layout integrated with unified color codes, custom slicers (**Marital Status**, **Region**, **Education**, **Gender**), and removed default field buttons to ensure executive-level readability.
 
 ---
-
-## 📂 Repository Structure
-
-```text
-├── Bike Sales Project.xlsx       # Primary workbook with Raw Data, Working Sheet, Pivot Tables, and Dashboard
-├── dashboard-screenshot.png      # High-resolution dashboard image
-├── dashboard-demo.gif            # Interactive slicer demonstration GIF
-└── README.md                     # Project documentation and summary
