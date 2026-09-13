@@ -8,7 +8,7 @@ This project analyzes customer demographic data to uncover key behavioral and so
 
 ![Bike Sales Dashboard Header](dashboard-screenshot.png)
 
-### 🎬 Interactive Demonstration
+### Interactive Demonstration
 ![Bike Sales Dashboard Demo](dashboard-demo.gif)
 
 ---
